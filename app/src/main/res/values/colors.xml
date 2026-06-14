@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Caminho: app/src/main/res/values/colors.xml -->
+<resources>
+    <color name="navy_deep">#FF0D1B2A</color>
+    <color name="navy_mid">#FF1A2C3E</color>
+    <color name="gold_light">#FFD4AF37</color>
+</resources>

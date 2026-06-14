@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Caminho: app/src/main/res/values/strings.xml -->
+<resources>
+    <string name="app_name">TEM Aerovendas</string>
+    <!--
+        IMPORTANTE: substitua o valor abaixo pelo Web Client ID gerado no Firebase Console.
+        Caminho: Firebase Console → Authentication → Sign-in method → Google → Web SDK configuration → Web client ID
+    -->
+    <string name="default_web_client_id">664365107700-cmethsigndhn1e4d7q5spjt7e4c32kvc.apps.googleusercontent.com</string>
+</resources>

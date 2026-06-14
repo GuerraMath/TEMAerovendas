@@ -1,0 +1,9 @@
+/app/
+*.hprof
+build/
+release/
+gradle/
+.gradle/
+bkp/
+.idea/
+.kotlin/
