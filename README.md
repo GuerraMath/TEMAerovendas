@@ -75,7 +75,7 @@ app/src/main/java/com/temaerovendas/
 
 ## 🚀 Como executar
 
-1. Em breve disponível na PlayStore
+1. Disponível na PlayStore: https://play.google.com/store/apps/details?id=com.temaerovendas
 2. Apenas em teste Alpha no momento
 
 ## 📋 Pré-requisitos
